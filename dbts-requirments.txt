@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 joblib
-matplot lib
+matplotlib
 pillow
 plotly
 scikit-learn
